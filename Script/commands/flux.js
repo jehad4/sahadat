@@ -4,7 +4,7 @@ module.exports.config = {
  name: "flux",
  version: "2.0",
  hasPermssion: 0,
- credits: "Dipto",
+ credits: "JOY",
  description: "Flux Image Generator",
  commandCategory: "𝗜𝗠𝗔𝗚𝗘 𝗚𝗘𝗡𝗘𝗥𝗔𝗧𝗢𝗥",
  usage: "{pn} [prompt] --ratio 1024x1024\n{pn} [prompt]",
